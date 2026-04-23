@@ -29,7 +29,7 @@ public class ParImpar {
 				System.out.println("NULO");
 			}
 		}
-
+		
 		sc.close();
 	}
 }

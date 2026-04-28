@@ -51,5 +51,4 @@ public class Alturas {
 
 		sc.close();
 	}
-
 }

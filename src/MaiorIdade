@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class MaiorIdade {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Digite o nome da pessoa: ");
+        String nome = sc.nextLine();
+
+        System.out.print("Digite a idade da pessoa: ");
+        int idade = sc.nextInt();
+
+        if (idade >= 18) {
+            System.out.println(nome + " é maior de idade.");
+        } else {
+            System.out.println(nome + " é menor de idade.");
+        }
+
+        sc.close();
+    }

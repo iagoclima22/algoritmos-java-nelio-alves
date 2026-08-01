@@ -1,4 +1,4 @@
-package estruturasequencial;
+package Aestruturasequencial;
 
 import java.util.Scanner;
 

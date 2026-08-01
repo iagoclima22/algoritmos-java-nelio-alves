@@ -1,4 +1,4 @@
-package estruturacondicional;
+package Bestruturacondicional;
 
 import java.util.Locale;
 import java.util.Scanner;

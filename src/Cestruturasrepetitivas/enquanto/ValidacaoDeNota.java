@@ -1,4 +1,4 @@
-package Cestruturasrepetitivas;
+package Cestruturasrepetitivas.enquanto;
 
 import java.util.Locale;
 import java.util.Scanner;
